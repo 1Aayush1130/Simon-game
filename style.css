@@ -1,0 +1,61 @@
+body {
+    text-align: center;
+}
+
+.btn {
+    height: 200px;
+    width: 200px;
+    border: 10px solid black;
+    border-radius: 20%;
+    margin: 2.5rem;
+}
+
+.btn-container {
+    display: flex;
+    justify-content: center;
+}
+
+.red {
+    background-color: #d95980;
+}
+
+.yellow {
+    background-color: #f99b45;
+}
+
+.purple {
+    background-color: #819ff9;
+}
+
+.green {
+    background-color: #63aac0;
+}
+
+.flash {
+    opacity: 0.5;
+    box-shadow: 0 0 25px white;
+}
+
+.userFlash {
+    opacity: 0.5;
+    box-shadow: 0 0 20px rgba(255,255,255,0.8);
+}
+
+.btn {
+    transition: opacity 0.25s ease, box-shadow 0.2s ease;
+}
+
+.btn:active {
+    transform: scale(0.95);
+    box-shadow: 0 0 20px white;
+}
+
+body {
+    text-align: center;
+    min-height: 100vh;
+    background: radial-gradient(circle at top, #2c3e50, #000);
+    color: #f1f1f1;
+    font-family: "Audiowide", cursive;
+}
+
+
