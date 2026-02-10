@@ -5,6 +5,8 @@ Test your memory by repeating the color sequence shown by the game.
 Each level increases the difficulty 🔥
 
 ---
+## 🚀 Live Demo
+👉 https://1aayush1130.github.io/Simon-game/
 
 ## 🛠️ Technologies Used
 - HTML5  
