@@ -25,10 +25,11 @@ Each level increases the difficulty 🔥
 ---
 
 simon-game/
-   │── index.html
-   │── style.css
-   │── script.js
-   │── README.md
+|
+│── index.html
+│── style.css
+│── script.js
+│── README.md
 
 
 ## 👤 Author
