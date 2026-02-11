@@ -23,14 +23,14 @@ Each level increases the difficulty 🔥
 5. Game over if you press the wrong button ❌
 
 ---
-
+## 📁 Project Structure
+```
 simon-game/
-|
 │── index.html
 │── style.css
 │── script.js
 │── README.md
-
+```
 
 ## 👤 Author
 - Aayush Rathore
